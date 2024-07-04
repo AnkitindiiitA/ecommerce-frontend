@@ -1,9 +1,9 @@
 
 import axios from 'axios';
-const DEPLOYED='https://ecommerce-backend-gd5eij951-ankits-projects-27b7cb4f.vercel.app'
-const LOCALHOST='https://ecommerce-backend-gd5eij951-ankits-projects-27b7cb4f.vercel.app'
+const DEPLOYED='https://ecommerce-backend-omega-lemon.vercel.app'
+const LOCALHOST='https://ecommerce-backend-omega-lemon.vercel.app'
 
-export const API_BASE_URL = LOCALHOST;
+export const API_BASE_URL = DEPLOYED;
 
 const api = axios.create({
   baseURL: API_BASE_URL,
