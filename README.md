@@ -16,26 +16,6 @@ A full-stack eCommerce application built with React and Spring Boot And Node Js.
 - Order history and tracking.
 - Admin panel to manage products, categories, and orders.
 
-## Demo
-
-[shopwithzosh](https://shopwithzosh.vercel.app/)
-
-## Technologies Used
-
-- Frontend:
-  - React: JavaScript library for building user interfaces.
-  - Redux: State management library for React applications.
-  - HTML/CSS: Markup and styling of the application.
-  - Axios: HTTP client for making API requests.
-  - MUI: CSS components library.
-  - Tailwind Css.
-
-- Backend:
-  - Spring Boot: Java framework for building robust and scalable backend applications.
-  - Spring Security: Authentication and authorization for the API endpoints.
-  - Spring Data JPA: Database access and ORM tool.
-  - MySQL : Database to store application data.
-
 
 ## Usage
 
